@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\04.06.2024 task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85BB7E88-19EB-4EB1-ADDD-BADD51A69D7B}|04.06.2024 task\\04.06.2024 task.csproj|c:\\users\\user\\desktop\\04.06.2024 task\\04.06.2024 task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BB7E88-19EB-4EB1-ADDD-BADD51A69D7B}|04.06.2024 task\\04.06.2024 task.csproj|solutionrelative:04.06.2024 task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BB7E88-19EB-4EB1-ADDD-BADD51A69D7B}|04.06.2024 task\\04.06.2024 task.csproj|c:\\users\\user\\desktop\\04.06.2024 task\\04.06.2024 task\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BB7E88-19EB-4EB1-ADDD-BADD51A69D7B}|04.06.2024 task\\04.06.2024 task.csproj|solutionrelative:04.06.2024 task\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BB7E88-19EB-4EB1-ADDD-BADD51A69D7B}|04.06.2024 task\\04.06.2024 task.csproj|c:\\users\\user\\desktop\\04.06.2024 task\\04.06.2024 task\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BB7E88-19EB-4EB1-ADDD-BADD51A69D7B}|04.06.2024 task\\04.06.2024 task.csproj|solutionrelative:04.06.2024 task\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\04.06.2024 task\\04.06.2024 task\\Book.cs",
+              "RelativeDocumentMoniker": "04.06.2024 task\\Book.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\04.06.2024 task\\04.06.2024 task\\Book.cs",
+              "RelativeToolTip": "04.06.2024 task\\Book.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:18:11.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\04.06.2024 task\\04.06.2024 task\\Library.cs",
+              "RelativeDocumentMoniker": "04.06.2024 task\\Library.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\04.06.2024 task\\04.06.2024 task\\Library.cs",
+              "RelativeToolTip": "04.06.2024 task\\Library.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwEoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:26:43.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\04.06.2024 task\\04.06.2024 task\\Program.cs",
+              "RelativeDocumentMoniker": "04.06.2024 task\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\04.06.2024 task\\04.06.2024 task\\Program.cs",
+              "RelativeToolTip": "04.06.2024 task\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:17:20.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
